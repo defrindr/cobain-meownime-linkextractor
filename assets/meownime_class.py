@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from colorama import Fore,Style
 import time
-from urllib.parse import urlparse as parse
+from urllib.parse import urlparse as getDomain
 
 
 
